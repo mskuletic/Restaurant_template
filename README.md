@@ -17,3 +17,6 @@ Features
 - Easy To Customize and Personalise
 - Minimal & Modern Design
 - - - - - - - - - - -
+Demo link:
+https://free-restaurant-template.netlify.app/
+- - - - - - - - - - -
